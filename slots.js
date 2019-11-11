@@ -27,6 +27,7 @@ function printStats() {
     console.log("Current Bytes: " + document.getElementById("credits").innerHTML);
     console.log("Current Profit: " + bytesProfit);
     console.log("You have played " + counter++ + " times.");
+    document.title = "Spins: " + counter;
     console.log("Safety Switch Amount: " + safetySwitchAmount)
     console.log("~~~~~~~~~~~~~~~~~~~~");
 }
