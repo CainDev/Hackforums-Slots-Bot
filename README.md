@@ -19,4 +19,4 @@ The bot will now run until it hits your safety switch.
 
 I also don't know if this bot is allowed or not. So <b>USE AT YOUR OWN RISK!</b>
 
-Author: <a href="https://hackforums.net/member.php?action=profile&uid=3790579" target="_blank">Joel (Me, New Tab)</a>
+Author: <a href="https://hackforums.net/member.php?action=profile&uid=3790579" target="_blank">Joel (Me)</a>
