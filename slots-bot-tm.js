@@ -52,13 +52,12 @@
     }
 
     function runBot() {
-        sleep(4000).then(() => {
+        sleep(4500).then(() => {
             if (document.getElementById("credits").innerHTML >= 1) {
                 doEverything();
                 runBot();
             }
         })
     }
-
     runBot();
 })();
