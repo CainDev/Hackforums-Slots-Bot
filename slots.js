@@ -2,7 +2,7 @@ var starterBytes = document.getElementById("credits").innerHTML;
 var counter = 1;
 var bytesProfit = 0;
 var safetySwitchAmount = 0; // 0 = Infinite, Anything else is what it will stop at :)
-soundManager.mute(); <
+soundManager.mute();
 
 const sleep = (milliseconds) => {
     return new Promise(resolve => setTimeout(resolve, milliseconds))
