@@ -7,15 +7,22 @@ This is a very simple bot that will keep placing credit bets until you hit eithe
 2) Then copy and paste the whole script in.
 3) type in "runBot();" and hit ENTER.
 
-The bot will now run until it hits your safety switch.
+## Tampermonkey 🤖🐵
+1) Download the slots-bot-tm.js file.
+2) Import it to <a href="https://www.tampermonkey.net/">Tampermonkey</a>
+3) Make sure the script is enabled and so is Tampermonkey
+4) Proceed to the <a href="https://hackforums.net/slots.php">Slots</a> and it'll start automatically.
+
+The bot will now run until it hits your safety switch. 
 
 <img src="https://i.gyazo.com/f054f52ed56c48860b89c276ee7627e4.png">
-
 
 ## Extra Information
 > soundManager.mute(); mutes the bot for you. So you don't need to do it manually.
 
 > var safetySwitchAmount is set to "0" by default. You should change this to how many bytes you want the script to stop at. If you forget don't come crying to me when you've lost everything.
+
+> Tampermonkey Script is 500ms Slower due to execution time.
 
 I also don't know if this bot is allowed or not. So <b>USE AT YOUR OWN RISK!</b>
 
