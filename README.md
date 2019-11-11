@@ -8,6 +8,7 @@ This is a very simple bot that will keep placing credit bets until you hit eithe
 3) type in "runBot();" and hit ENTER.
 
 The bot will now run until it hits your safety switch.
+
 <img src="https://i.gyazo.com/b5842919a6fc4f4734103499885fb71b.png">
 
 
