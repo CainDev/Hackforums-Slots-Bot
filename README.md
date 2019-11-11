@@ -9,8 +9,9 @@ This is a very simple bot that will keep placing credit bets until you hit eithe
 The bot will now run until it hits your safety switch.
 
 ## Extra Information
->> soundManager.mute(); mutes the bot for you. So you don't need to it manually.
->> var safetySwitchAmount is set to "0" by default. You should change this to how many bits you want the script to stop at. If you forget don't come crying to me when you've lost all your shit lmao.
+> soundManager.mute(); mutes the bot for you. So you don't need to it manually.
+
+> var safetySwitchAmount is set to "0" by default. You should change this to how many bits you want the script to stop at. If you forget don't come crying to me when you've lost all your shit lmao.
 
 I also don't know if this bot is allowed or not. So USE AT YOUR OWN RISK!
 
