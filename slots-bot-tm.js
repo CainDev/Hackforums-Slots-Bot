@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hackforum's Dice Bot by Joel
 // @namespace    https://github.com/gothboiclique/Hackforums-Slots-Bot/
-// @version      0.1
+// @version      0.2
 // @description  Get that dice award bro.
 // @author       https://hackforums.net/member.php?action=profile&uid=3790579
 // @match        https://hackforums.net/slots.php
@@ -40,6 +40,7 @@
         console.log("Current Bytes: " + document.getElementById("credits").innerHTML);
         console.log("Current Profit: " + bytesProfit);
         console.log("You have played " + counter++ + " times.");
+		document.title = counter;
         console.log("Safety Switch Amount: " + safetySwitchAmount)
         console.log("~~~~~~~~~~~~~~~~~~~~");
     }
