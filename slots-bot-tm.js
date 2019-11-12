@@ -3,6 +3,7 @@
 // @author Joel 
 // @description Get that dice award bro.
 // @license MIT
+// @match https://hackforums.net/slots.php
 // @icon https://i.ibb.co/2ygyT3Z/robot64.png
 // @homepageURL https://github.com/gothboiclique/Hackforums-Slots-Bot
 // @supportURL https://hackforums.net/member.php?action=profile&uid=3790579
