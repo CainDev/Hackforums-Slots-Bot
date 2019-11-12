@@ -8,8 +8,8 @@ This is a very simple bot that will keep placing credit bets until you hit eithe
 3) type in "runBot();" and hit ENTER.
 
 ## Tampermonkey 🤖🐵
-1) Download the slots-bot-tm.js file.
-2) Import it to <a href="https://www.tampermonkey.net/">Tampermonkey</a>
+1) Install <a href="https://www.tampermonkey.net/">Tampermonkey</a>
+2) Click <a href="https://openuserjs.org/install/Joel/Hackforums_Slot_Bot.user.js">Here</a>
 3) Make sure the script is enabled and so is Tampermonkey
 4) Proceed to the <a href="https://hackforums.net/slots.php">Slots</a> and it'll start automatically.
 
