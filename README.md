@@ -24,6 +24,7 @@ The bot will now run until it hits your safety switch.
 
 > Tampermonkey Script is 500ms Slower due to execution time.
 
-I also don't know if this bot is allowed or not. So <b>USE AT YOUR OWN RISK!</b>
+THIS BOT IS ALLOWED :)
+<img src="https://i.gyazo.com/152594141e9a7e77576e248a63268057.png">
 
 Author: <a href="https://hackforums.net/member.php?action=profile&uid=3790579" target="_blank">Joel (Me)</a>
