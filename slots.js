@@ -13,7 +13,7 @@ function botSpins() {
 }
 
 function safetySwitch() {
-    if (parseInt(document.getElementById("credits").innerHTML, 10) == safetySwitchAmount) {
+    if (parseInt(document.getElementById("credits").innerHTML, 10) == safetySwitchAmount  || parseInt(document.getElementById("credits").innerHTML, 10) < safetySwitchAmount) {
         return false;
     } else {
         return true;
